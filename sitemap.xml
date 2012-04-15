@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://careychow.github.com/blog/archives/</loc>
-        <lastmod>2012-04-15T09:30:20+08:00</lastmod>
+        <loc>http://zhourunsheng.com/blog/2012/04/15/article-title/</loc>
+        <lastmod>2012-04-15T18:49:53+08:00</lastmod>
     </url>
     <url>
-        <loc>http://careychow.github.com/</loc>
-        <lastmod>2012-04-15T09:30:20+08:00</lastmod>
+        <loc>http://zhourunsheng.com/blog/archives/</loc>
+        <lastmod>2012-04-15T18:49:53+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://zhourunsheng.com/</loc>
+        <lastmod>2012-04-15T18:49:53+08:00</lastmod>
     </url>
 </urlset>
